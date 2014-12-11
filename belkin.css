@@ -1,0 +1,76 @@
+/*div{
+	border: 1px solid red;
+	margin-top: 5px;
+}*/
+
+
+
+
+.main{
+	width: 960px;
+	height: 100%;
+	margin: 0 auto;
+}
+
+.menu{
+	width: 960px;
+	height: 40px;
+	margin: 0 auto;
+	background-color: yellow ;
+	margin-top: 5px;
+
+}
+
+.logo{
+	float: left;
+}
+
+li{
+	list-style: none;
+	float: left;
+	margin: 0px;
+	font-family: arial;
+	height: 100%;
+	width: 13%;
+	text-decoration: none;
+}
+
+.img1{
+	width: 40%;
+	height: 362px;
+	float: left;
+	background-color: black;
+	margin-top: 10px;
+}
+
+.img2{
+	width: 40%;
+	height: 362px;
+	float: left;
+	background-color: green;
+	margin-top: 10px;
+}
+
+.img3{
+	width: 20%;
+	height: 176px;
+	float: right;
+	background-color: blue;
+	margin-top: 10px;
+	
+}
+
+.img4{
+	width: 20%;
+	height: 176px;
+	float: right;
+	background-color: blue;
+	margin-top: 10px;
+}
+
+
+.banner{ 
+	width: 960px;
+	height: 362px;
+
+}
